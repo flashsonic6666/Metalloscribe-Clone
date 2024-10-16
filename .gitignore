@@ -1,0 +1,30 @@
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.ico
+*.webp
+
+# Ignore all Python notebooks and checkpoints
+*.ipynb
+.ipynb_checkpoints
+
+# Ignore pycache
+__pycache__
+*.pyc
+
+# Ignore all log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore temporary files
+*.tmp
